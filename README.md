@@ -1,0 +1,1 @@
+This is a backup of a game I made in a 7th grade Computer Science class in p5.js. It is a extremely primitive first-person adventure game. I am adding this to my github incase p5.js ever goes down or my account gets deleted, whih is bound to happen as I used my school account to sign up for that site.
